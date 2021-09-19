@@ -1,4 +1,4 @@
-package com.pose.templix.ui.fragments
+package co.temy.templix.ui.fragments
 
 import androidx.lifecycle.ViewModel
 

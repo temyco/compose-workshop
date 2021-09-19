@@ -1,4 +1,4 @@
-package com.pose.templix
+package co.temy.templix
 
 import org.junit.Test
 
