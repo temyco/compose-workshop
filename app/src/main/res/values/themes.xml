@@ -18,7 +18,7 @@
 
     <style name="Theme.Templix.Splash" parent="Theme.SplashScreen">
         <item name="windowSplashScreenBackground">@color/splash_background</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen_background</item>
         <item name="postSplashScreenTheme">@style/Theme.Templix</item>
     </style>
 </resources>
